@@ -1,6 +1,6 @@
 # 🎓 SMU International Student Assistant
 
-A RAG (Retrieval-Augmented Generation) assistant to help F1 international students at SMU navigate complex visa regulations, employment authorization, taxes, SSN applications, and Texas driver's license requirements.
+A RAG (Retrieval-Augmented Generation) assistant to help F1 international students at Southern Methodist University (SMU) navigate complex visa regulations, employment authorization, taxes, SSN applications, and Texas driver's license requirements.
 
 ## 📋 Problem Statement
 
@@ -156,7 +156,7 @@ smu-international-student-assistant/
 
 ## 👤 Author
 
-**Vy** - F1 MSCS Student at SMU
+**Vee Huynh** - MSCS in Machine Learning Student at Southern Methodist University (SMU)
 
 ## 📄 License
 
