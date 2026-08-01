@@ -145,19 +145,11 @@ smu-international-student-assistant/
    - Build vector store
    - Test retrieval
 
-## 📝 Session Progress
-
-- [x] **Session 1:** Domain selection, problem statement
-- [x] **Session 2:** Data ingestion, text cleaning
-- [x] **Session 3:** Chunking with metadata, statistics
-- [ ] **Session 4:** Embeddings, vector store, retrieval
-- [ ] **Session 5:** RAG chain, evaluation, deployment
-- [ ] **Session 6:** Demo day
 
 ## 👤 Author
 
-**Vee Huynh** - MSCS in Machine Learning Student at Southern Methodist University (SMU)
+**Vee Huynh** - MSCS in AI/ML Student at Southern Methodist University (SMU)
 
 ## 📄 License
 
-This project is for educational purposes as part of the VietSpark Break Into Tech RAG Competition.
+This is a personal project I've been developing as part of my Master's in Computer Science studies at SMU. The goal is to propose this tool to SMU's International Student & Scholar Services (ISSS) office for potential implementation to help F-1 students navigate complex immigration regulations.
